@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Pesan Saya
+INI BENAR - BENAR DARI AWAL BANGET KHUSUS PEMULA SEPERTI SAYA!!!!
+KALAU SUDAH MAHIR SAYA RASA TIDAK PERLU LIAT INI KARENA SAYA JADI MALU XD HEHE
+
+sudah npx create-react-app my-app contohnya
+disini saya baru belajar tentang statefull dan event handling sederhana
+doakan sayan sukses yah kawan kawan ku thanks
+
 ## Available Scripts
 
 In the project directory, you can run:

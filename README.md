@@ -4,10 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Pesan Saya
 INI BENAR - BENAR DARI AWAL BANGET KHUSUS PEMULA SEPERTI SAYA!!!!
 KALAU SUDAH MAHIR SAYA RASA TIDAK PERLU LIAT INI KARENA SAYA JADI MALU XD HEHE
-
+<br />
 sudah npx create-react-app my-app contohnya
 disini saya baru belajar tentang statefull dan event handling sederhana
 doakan sayan sukses yah kawan kawan ku thanks
+<br />
+Untuk contoh component dan event handling banyak di google yah guys :)
 
 ## Available Scripts
 

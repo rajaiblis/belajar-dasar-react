@@ -1,8 +1,8 @@
 import React from 'react'
 
 const componentKu = (props) => {
-    const {pekerjaan,tempatTinggal,umur} = props
-    return <p>ini adalah component saya dan {pekerjaan} {tempatTinggal} {umur} </p>
+    const {pekerjaan,tempatTinggal,umur,laptop,merk} = props
+    return <p>ini adalah component saya dan {pekerjaan} {tempatTinggal} {umur} {laptop} {merk} </p>
 }
 
 export default componentKu
